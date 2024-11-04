@@ -1,0 +1,16 @@
+.about {
+  display: flex;
+  padding-left: 15%;
+  padding-right: 15%;
+  align-items: center;
+  color: #ffffff;
+}
+.title {
+  padding-left: 15%;
+  padding-right: 15%;
+  font-size: xx-large;
+  font-weight: bold;
+}
+.hero-image {
+  align-self: center;
+}
