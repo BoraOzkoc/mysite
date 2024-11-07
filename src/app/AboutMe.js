@@ -3,10 +3,10 @@ import "./AboutMe.css";
 
 const AboutMe = () => {
   return (
-    <div>
-        <div className="title">
-            <h5>About Me</h5>
-        </div>
+    <div id="about">
+      <div className="title">
+        <h5>About Me</h5>
+      </div>
       <div className="about">
         Quam ut neque. Ea unde maxime. Quia deleniti est asperiores quae
         voluptatem. Earum soluta occaecati id nisi eveniet. Eos fugiat nostrum

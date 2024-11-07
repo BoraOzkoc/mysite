@@ -1,6 +1,8 @@
+"use client"
 import React from "react";
 import "./Navbar.css";
-import Link from "next/link";
+import { Link }  from 'react-scroll';
+
 const Navbar = () => {
   return (
     <nav className="navbar">
@@ -12,10 +14,13 @@ const Navbar = () => {
       <div className="navbar-center">
         <ul className="nav-links">
           <li>
-            <a href="/about">About Me</a>
+            {/* <Link href="#about">About Me</Link> */}
+            <Link to="about" smooth = {500} duration={500}>
+              About Me
+            </Link>
           </li>
           <li>
-            <a href="/products">Project</a>
+            <a href="/products">Projects</a>
           </li>
           <li>
             <a href="/contact">Contact</a>
