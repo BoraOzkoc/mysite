@@ -8,16 +8,7 @@ const AboutMe = () => {
         <h5>About Me</h5>
       </div>
       <div className="about">
-        Quam ut neque. Ea unde maxime. Quia deleniti est asperiores quae
-        voluptatem. Earum soluta occaecati id nisi eveniet. Eos fugiat nostrum
-        vero rem ea commodi alias rerum dolorem. Corporis reiciendis ex odio
-        iure velit sed et iste sed. Ut est id. Mollitia magnam ipsam at quis est
-        ipsa blanditiis animi. Magnam placeat repudiandae accusamus
-        exercitationem. Nihil omnis et sit occaecati velit ut. Aliquam
-        recusandae similique aperiam voluptas non ad ex. Necessitatibus mollitia
-        in cupiditate laborum dolor ad. Tenetur nam et minima excepturi labore
-        est. Quia exercitationem facere consequuntur id sapiente. Et sit minima
-        et libero sunt doloremque et.
+      I am a software engineering graduate from Izmir University of Economics with experience in mobile development and game development. I bring creative ideas to life through efficient, scalable code. I’m always eager to learn, adapt, and solve challenging problems. Let’s build something great together!
       </div>
     </div>
   );

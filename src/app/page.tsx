@@ -4,6 +4,7 @@ import AboutMe from "./AboutMe";
 import Hero from "./Hero";
 import Contacts from "./Contacts";
 import "./Header.css";
+import Projects from "./Projects";
 export default function Home() {
   return (
     <div>
@@ -12,6 +13,7 @@ export default function Home() {
       </header>
       <Hero />
       <AboutMe />
+      <Projects />
       <Contacts />
     </div>
   );
